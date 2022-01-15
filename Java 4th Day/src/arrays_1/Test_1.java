@@ -21,6 +21,8 @@ public class Test_1 {
 		d2 = new int[9];
 		int a[] = null;
 		System.out.println("Values of array a[] =" +a);
+		System.out.println("======================================");
+
 		// a ={10,20,30}; // error (must be at initializer)
 		System.out.println("======================================");
 
